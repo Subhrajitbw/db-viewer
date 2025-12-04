@@ -1,0 +1,5 @@
+{
+  "name": "OmniDB Viewer",
+  "description": "A modern, high-performance database client featuring a virtualized data grid, SQL query editor with safety checks, and an interactive ERD visualizer. Note: This is a frontend demonstration using a mock PostgreSQL engine.",
+  "requestFramePermissions": []
+}
